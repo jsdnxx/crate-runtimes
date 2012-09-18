@@ -1,1 +1,1 @@
-node .
+runtime/node app/.
